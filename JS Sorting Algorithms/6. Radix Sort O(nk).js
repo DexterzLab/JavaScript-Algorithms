@@ -9,7 +9,7 @@
 
  ** "n" - How many ELEMENTS are in the array
  ** "k" - How many DIGITS are in the LARGEST number in the array: 1000 means "k" = 4
- ** - LARGE Integers Large Range (Othewise use Radix)
+ ** - LARGE Integers Large Range (Otherwise use Counting Sort)
  */
 
 const numbers = [6, 5, 2, 1, 8, 7, 3, 4];
